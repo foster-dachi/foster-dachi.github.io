@@ -5,6 +5,6 @@ export const headerData = {
   title: "Backend Developer",
   desciption:
     "Perjalanan hidup ibarat peta tanpa jalur yang pasti. Terkadang berliku, terkadang menanjak, namun setiap langkah memberi makna dan pembelajaran. Jadikan setiap tantangan sebagai kesempatan untuk berkembang, karena nilai sejati terletak pada proses yang membentuk kita, bukan sekadar garis akhir.",
-  image: "https://github.com/foster2002150902.png",
+  image: "https://github.com/foster-dachi.png",
   resumePdf: resume,
 };
